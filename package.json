@@ -1,0 +1,24 @@
+{
+  "name": "an-sql-archive",
+  "version": "1.0.0",
+  "description": "-  videogame char done on Dec 13, 2025  -  celestial bodies done on Jan 27, 2026 `universe.sql` -  buil 5 programs done on Jan 29, 2025 - `no file because Im cooked asf` **Lesson learned: do not rebuild docker container whithout backup the file or you will lost them forever like i did**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-work:tonax70/psql-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "pg": "^8.17.2",
+    "pg-mem": "^3.0.8"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.16.0"
+  }
+}
