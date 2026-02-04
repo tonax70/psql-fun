@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 echo hello bash
 echo hello bash > stdout.txt
 echo hello bash >> stdout.txt
